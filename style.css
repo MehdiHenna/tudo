@@ -71,6 +71,9 @@ input#recherche
 	background-color: #9e9e9e;
 
 }
+ 
+
+
 
 ul
 
@@ -98,4 +101,11 @@ ul#footer li
 	width: 296px;
 	height: 40px;
 
+}
+
+.delete
+
+{
+	
+	
 }
